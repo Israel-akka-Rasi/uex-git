@@ -7,7 +7,7 @@ def read_numbers():
 # Simple menu.
 print('Welcome to the calculator!')
 print('Please choose an operation:')
-print('    2. Addition') #Cambiado para el pull
+print('    2. Addition') #Cambiado para hacer el pull
 print('    1. Subtraction')
 print('    3. Multiplication')
 print('    4. Division')
